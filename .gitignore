@@ -1,3 +1,5 @@
 .env
 unsloth.F16.gguf
 Modelfile
+databases
+temp_databases
