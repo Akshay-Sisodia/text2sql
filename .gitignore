@@ -3,3 +3,5 @@ unsloth.F16.gguf
 Modelfile
 databases
 temp_databases
+Chinook_Sqlite.sql
+chinook.db
